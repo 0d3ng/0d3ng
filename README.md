@@ -32,7 +32,7 @@ Hi, my name is [Noprianto](https://sinaungoding.com/), currently as a lecturer a
 - 💻 Currently I’m working on my [Website](https://www.polinema.ac.id/);
 - 🌱 I'm also improving my skills in IoT and Computer Vision; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚽ My hobbies: Badminton, Cycling, Table Tennis, Gardener
+- ⚽ My hobbies: Badminton, Cycling, Table Tennis, Gardening
 
 **Languages and Tools:** 
 <p>

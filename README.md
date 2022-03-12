@@ -37,20 +37,32 @@ Hi, my name is [Noprianto](https://sinaungoding.com/), currently as a lecturer a
 **Languages and Tools:** 
 <p>
   <a href="https://www.java.com/en/" title="Java" target="_blank">
-    <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/java.jpg"></code>
+    <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/icons8-java.gif"></code>
+  </a>
+  <a href="https://www.python.org/" title="Python" target="_blank">
+    <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/icons8-python.gif"></code>
+  </a>
+  <a href="https://www.cplusplus.com/" title="Cpp" target="_blank">
+    <code><img alt="java" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/icons8-c++-48.png"></code>
   </a>
   <a href="https://kotlinlang.org/" title="Kotlin" target="_blank">
-    <code><img alt="Kotlin" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/kotlin.jpg"></code>
+    <code><img alt="Kotlin" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/kotlin.jpg"></code>
   </a>
+</p>
   <a href="https://spring.io/" title="Spring" target="_blank">
-    <code><img alt="Spring" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/spring.jpg"></code>
+    <code><img alt="Spring" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/spring.jpg"></code>
   </a>
   <a href="https://hibernate.org/" title="Hibernate" target="_blank">
-    <code><img alt="Hibernate" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/hibernate.jpg"></code>
+    <code><img alt="Hibernate" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/hibernate.jpg"></code>
   </a>
   <a href="https://www.docker.com/" title="Docker" target="_blank">
-    <code><img alt="Docker" width="35" height="35" src="https://raw.githubusercontent.com/DanielMichalski/DanielMichalski/master/images/technologies/docker.jpg"></code>
+    <code><img alt="Docker" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/docker.jpg"></code>
   </a>
+  <a href="https://opencv.org/" title="OpenCV" target="_blank">
+    <code><img alt="OpenCV" width="35" height="35" src="https://raw.githubusercontent.com/0d3ng/0d3ng/master/images/technologies/icons8-opencv-48.png"></code>
+  </a>
+<p>
+  
 </p>
 
 **Statistics:**  
